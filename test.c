@@ -1,3 +1,4 @@
-cd
-efgh
-mbmbmbm
+void main (void) {
+	printf("hello world");
+	
+}
