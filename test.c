@@ -1,3 +1,5 @@
-cd
-efgh
-test
+void main (void) {
+	printf("hello world");
+	
+}
+
